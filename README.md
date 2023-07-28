@@ -2,7 +2,10 @@
 
 I'm Sabin Andone and this is my Github profile!
 
-Here you can find some of my projects that I have done during my Bachelor's (Computer Engineering and Business Organization) and Master's (Computer Science). 
+Here you can find some of my projects that I have done during my Bachelor's (Computer Engineering and Business Organization) and Master's (Computer Science) at Unitn. 
+
+
+
 
 
 <!--
